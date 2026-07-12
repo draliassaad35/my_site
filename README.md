@@ -13,10 +13,13 @@ Doctor of Business Administration specializing in Marketing Strategies.
 - **Single self‑contained file** — `index.html` has all styles, scripts and the profile
   photo embedded. No build step, no external requests, no internet required. Just open it.
 - **Content** — every detail from the CV is presented professionally:
-  hero with portrait and key statistics, profile, areas of expertise, education and
-  professional‑experience timelines, a filterable list of 13 research works (with journal
-  quartile Q1–Q3 and status badges), 16 taught courses grouped by degree level,
-  20 professional certificates, and contact details.
+  hero with an HD circular portrait and key statistics, profile, areas of expertise,
+  education and professional‑experience timelines, a filterable list of 13 research works
+  (with journal quartile Q1–Q3 and status badges), an "Essence of Marketing" section with
+  quotes from Philip Kotler, 16 taught courses grouped by degree level, 20 professional
+  certificates, and contact details.
+- **Direct links** — a one‑tap WhatsApp button (opens a chat directly), plus academic
+  profile links to Google Scholar, ResearchGate and ORCID.
 
 ## Usage
 
